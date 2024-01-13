@@ -6,7 +6,9 @@ Kelas&ensp; &nbsp; : TI.22.A.1<br>
 Dosen &nbsp; : Donny Maulana, S.Kom., M.M.S.I.<br><br>
 
 ## Tugas
-![tugas](https://github.com/syifaaurellia/fragment_test/assets/115867244/fb861b7f-9579-47f3-a830-8cc7d896afbf)
+
+![a](https://github.com/Bayuayassy/Fragment-Tab/assets/115678251/7d665de9-fc84-447a-a2d7-fe5f68036366)
+
 
 > **Pada tugas kali ini saya juga akan menambahkan video trailer di setiap film**
 
